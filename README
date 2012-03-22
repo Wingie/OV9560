@@ -1,1 +1,14 @@
-This is a version of the s3c2440camera linux driver that is being ported to the mini2440
+This is a version of the s3c2440camera linux driver that is being ported to the mini2440.
+
+It is not working. 
+It compiles! (i fixed all of the compile errors on the 3.1.x kernel) - but does not detect the camera connected. 
+I think its some issue with the timing registers - and i got started to fix it...
+
+and in the meantime, i got distracted with stuff like how to pay for food and stuff..
+
+so i'l get back to this later, when i have time to indulge my hobby.
+you can always help if you want.
+
+cto@workshopinda.com
+wingston.workshopindia.com
+www.workshopindia.com
